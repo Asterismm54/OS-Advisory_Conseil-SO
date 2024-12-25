@@ -446,6 +446,8 @@ The workshop will discuss the potential and benefits of working as an open proje
 
 [Back to Schedule](#schedule)
 
+When was this and is it ever happening again?
+
 ## Unconference Stream
 
 People gather and decide together the topics they would like to address.
